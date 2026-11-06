@@ -1,0 +1,14 @@
+{
+  "name": "MED ASISTANT",
+  "short_name": "MED ASISTANT",
+  "description": "Tibbiyot talabalari va shifokorlar uchun bilim platformasi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f8f8",
+  "theme_color": "#0b7a75",
+  "lang": "uz",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
